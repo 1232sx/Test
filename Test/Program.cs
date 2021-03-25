@@ -10,6 +10,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            int i = 50;
+            int j = 10;
         }
     }
 }
