@@ -13,6 +13,9 @@ namespace Test
             int i = 50;
             int j = 10;
             int p = i + j;
+            Console.WriteLine(p);
+            Console.WriteLine(new string('-',20));
+            Console.WriteLine(new string('+',20));
         }
     }
 }
