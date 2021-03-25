@@ -12,6 +12,7 @@ namespace Test
         {
             int i = 50;
             int j = 10;
+            int p = i + j;
         }
     }
 }
