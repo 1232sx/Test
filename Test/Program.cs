@@ -16,6 +16,7 @@ namespace Test
             Console.WriteLine(p);
             Console.WriteLine(new string('-',20));
             Console.WriteLine(new string('+',20));
+            Console.WriteLine(i);
         }
     }
 }
